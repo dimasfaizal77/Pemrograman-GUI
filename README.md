@@ -1,2 +1,2 @@
-# Pemrograman-GUI
-# Pemrograman-GUI
+# Nama : Dimas Faizal
+# NIM  : 19201144
